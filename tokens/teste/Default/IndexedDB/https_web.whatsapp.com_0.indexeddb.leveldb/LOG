@@ -1,0 +1,61 @@
+2024/06/15-18:53:12.362 1608 Reusing MANIFEST c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\teste\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/15-18:53:12.363 1608 Recovering log #692
+2024/06/15-18:53:12.376 1608 Reusing old log c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\teste\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000692.log 
+2024/06/15-18:53:13.811 3908 Level-0 table #706: started
+2024/06/15-18:53:13.819 3908 Level-0 table #706: 495698 bytes OK
+2024/06/15-18:53:13.819 3908 Delete type=0 #692
+2024/06/15-18:53:13.820 3908 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 2644817 : 1
+2024/06/15-18:53:13.820 3908 Compacting 1@0 + 0@1 files
+2024/06/15-18:53:13.826 3908 Generated table #707@0: 7122 keys, 212679 bytes
+2024/06/15-18:53:13.828 3908 Generated table #708@0: 564 keys, 21063 bytes
+2024/06/15-18:53:13.828 3908 Compacted 1@0 + 0@1 files => 233742 bytes
+2024/06/15-18:53:13.828 3908 compacted to: files[ 0 2 27 0 0 0 0 ]
+2024/06/15-18:53:13.829 3908 Delete type=2 #706
+2024/06/15-18:53:13.829 23c8 Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 2644817 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/15-18:53:14.943 23c8 Compacting 1@1 + 10@2 files
+2024/06/15-18:53:14.976 23c8 Generated table #709@1: 35691 keys, 2206600 bytes
+2024/06/15-18:53:14.999 23c8 Generated table #710@1: 3079 keys, 2162280 bytes
+2024/06/15-18:53:15.020 23c8 Generated table #711@1: 3016 keys, 2164323 bytes
+2024/06/15-18:53:15.039 23c8 Generated table #712@1: 2754 keys, 2161244 bytes
+2024/06/15-18:53:15.057 23c8 Generated table #713@1: 2980 keys, 2161914 bytes
+2024/06/15-18:53:15.076 23c8 Generated table #714@1: 1351 keys, 2143060 bytes
+2024/06/15-18:53:15.091 23c8 Generated table #715@1: 1306 keys, 2147331 bytes
+2024/06/15-18:53:15.108 23c8 Generated table #716@1: 1855 keys, 2145632 bytes
+2024/06/15-18:53:15.128 23c8 Generated table #717@1: 3368 keys, 2162329 bytes
+2024/06/15-18:53:15.167 23c8 Generated table #718@1: 29655 keys, 2234969 bytes
+2024/06/15-18:53:15.169 23c8 Generated table #719@1: 424 keys, 40375 bytes
+2024/06/15-18:53:15.169 23c8 Compacted 1@1 + 10@2 files => 21730057 bytes
+2024/06/15-18:53:15.169 23c8 compacted to: files[ 0 1 28 0 0 0 0 ]
+2024/06/15-18:53:15.169 23c8 Delete type=2 #682
+2024/06/15-18:53:15.170 23c8 Delete type=2 #683
+2024/06/15-18:53:15.170 23c8 Delete type=2 #684
+2024/06/15-18:53:15.170 23c8 Delete type=2 #685
+2024/06/15-18:53:15.170 23c8 Delete type=2 #686
+2024/06/15-18:53:15.170 23c8 Delete type=2 #687
+2024/06/15-18:53:15.170 23c8 Delete type=2 #688
+2024/06/15-18:53:15.170 23c8 Delete type=2 #689
+2024/06/15-18:53:15.170 23c8 Delete type=2 #690
+2024/06/15-18:53:15.170 23c8 Delete type=2 #696
+2024/06/15-18:53:15.170 23c8 Delete type=2 #707
+2024/06/15-18:53:15.659 23c8 Compacting 1@1 + 9@2 files
+2024/06/15-18:53:15.702 23c8 Generated table #720@1: 23849 keys, 2278247 bytes
+2024/06/15-18:53:15.742 23c8 Generated table #721@1: 26101 keys, 2262280 bytes
+2024/06/15-18:53:15.769 23c8 Generated table #722@1: 17088 keys, 2199280 bytes
+2024/06/15-18:53:15.789 23c8 Generated table #723@1: 9823 keys, 2132310 bytes
+2024/06/15-18:53:15.833 23c8 Generated table #724@1: 78398 keys, 2220335 bytes
+2024/06/15-18:53:15.890 23c8 Generated table #725@1: 101138 keys, 2249892 bytes
+2024/06/15-18:53:15.939 23c8 Generated table #726@1: 101236 keys, 2250370 bytes
+2024/06/15-18:53:15.991 23c8 Generated table #727@1: 100481 keys, 2250666 bytes
+2024/06/15-18:53:16.032 23c8 Generated table #728@1: 75279 keys, 1690136 bytes
+2024/06/15-18:53:16.032 23c8 Compacted 1@1 + 9@2 files => 19533516 bytes
+2024/06/15-18:53:16.032 23c8 compacted to: files[ 0 0 28 0 0 0 0 ]
+2024/06/15-18:53:16.033 23c8 Delete type=2 #660
+2024/06/15-18:53:16.033 23c8 Delete type=2 #661
+2024/06/15-18:53:16.033 23c8 Delete type=2 #697
+2024/06/15-18:53:16.033 23c8 Delete type=2 #698
+2024/06/15-18:53:16.033 23c8 Delete type=2 #699
+2024/06/15-18:53:16.033 23c8 Delete type=2 #700
+2024/06/15-18:53:16.033 23c8 Delete type=2 #701
+2024/06/15-18:53:16.033 23c8 Delete type=2 #702
+2024/06/15-18:53:16.033 23c8 Delete type=2 #703
+2024/06/15-18:53:16.033 23c8 Delete type=2 #708
