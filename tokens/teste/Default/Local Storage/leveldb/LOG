@@ -1,3 +1,13 @@
-2024/06/15-18:53:11.927 23c8 Reusing MANIFEST c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\teste\Default\Local Storage\leveldb/MANIFEST-000001
-2024/06/15-18:53:11.932 23c8 Recovering log #3
-2024/06/15-18:53:11.932 23c8 Reusing old log c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\teste\Default\Local Storage\leveldb/000003.log 
+2024/06/19-18:56:29.829 4318 Reusing MANIFEST c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\teste\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/19-18:56:29.835 4318 Recovering log #14
+2024/06/19-18:56:29.835 4318 Level-0 table #16: started
+2024/06/19-18:56:29.837 4318 Level-0 table #16: 13446 bytes OK
+2024/06/19-18:56:29.839 4318 Delete type=0 #14
+2024/06/19-18:56:29.839 4318 Compacting 4@0 + 0@1 files
+2024/06/19-18:56:29.841 4318 Generated table #18@0: 61 keys, 3434 bytes
+2024/06/19-18:56:29.841 4318 Compacted 4@0 + 0@1 files => 3434 bytes
+2024/06/19-18:56:29.842 4318 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/19-18:56:29.843 4318 Delete type=2 #7
+2024/06/19-18:56:29.843 4318 Delete type=2 #11
+2024/06/19-18:56:29.843 4318 Delete type=2 #13
+2024/06/19-18:56:29.843 4318 Delete type=2 #16
