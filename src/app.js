@@ -1,5 +1,5 @@
 const venom = require('venom-bot')
-const { textReplyingText, textReplyingAudio } = require("./message")
+const { textReplyingText, textReplyingAudio } = require("./handlers/message")
 
 console.log("Inicando aplicação...")
 
@@ -15,11 +15,13 @@ venom.create({
 
 function start(client) {
     client.onMessage(async (message) => {
-        if(message.mediaData.mimetype !== 'audio/ogg; codecs=opus' && message.isGroupMsg === false){
-            textReplyingText(client, message)
-        }
-        if(message.mediaData.mimetype === 'audio/ogg; codecs=opus' && message.isGroupMsg === false){
-            textReplyingAudio(client, message)
+        if (message.isGroupMsg === false) {
+            if(message.mediaData.mimetype !== 'audio/ogg; codecs=opus'){
+                textReplyingText(client, message)
+            }
+            if(message.mediaData.mimetype === 'audio/ogg; codecs=opus'){
+                textReplyingAudio(client, message)
+            }
         }
     })
 }
