@@ -1,0 +1,23 @@
+[33mcommit 6b6f1e3edd92683f6f6e421f1c13e31cd3fb9a6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mvenom[m[33m)[m
+Author: icaroQre <icaro.queiroz.reccanello@gmail.com>
+Date:   Fri Aug 2 16:01:49 2024 -0300
+
+    Add large files to Git LFS
+
+[33mcommit 941f97237830de51cbfd018b94dd9211e4077396[m
+Author: icaroQre <icaro.queiroz.reccanello@gmail.com>
+Date:   Fri Aug 2 15:42:15 2024 -0300
+
+    refatoração
+
+[33mcommit 0b34a489b4af6e1e8387e4f0da98f6a29322cfea[m
+Author: icaroQre <icaro.queiroz.reccanello@gmail.com>
+Date:   Thu Jun 20 10:47:54 2024 -0300
+
+    feat audio openAI api and repply audio message
+
+[33mcommit ccab919e7e25cd475cfa177b27298240fb6dc743[m
+Author: icaroQre <icaro.queiroz.reccanello@gmail.com>
+Date:   Sat Jun 15 19:21:02 2024 -0300
+
+    feat api text open ai
