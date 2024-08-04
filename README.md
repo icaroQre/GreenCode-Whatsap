@@ -3,6 +3,8 @@
 Neste repositório você entcontrará um protótipo da ideia ganhadora do segundo lugar da GeniusCon AgroHackaton 2023!A ideia foi pensada para ser voltada diretamente para o pequeno produtor
 e refinida através de outros estudos e pesquisas, como a validação com pequenos agricultores e orgão certificadores da região, difinição da proposta de valor, modelo de negócio, etc.
 
+<br/>
+
 <img src="/src/assets/audios/images/gc.jpg" height="500">
 
 ## Proposta
