@@ -7,8 +7,7 @@ e refinida através de outros estudos e pesquisas, como a validação com pequen
 
 ## Proposta
 A dificuldade na gestão e detalhamento dos processos no campo são problemas enfrentados por pequenos agricultores, isso acaba dificultanto o planejamento financeiro e também o rastreamento orgânico (indispensável para a certificação orgânica)
-Pensando nisso, desenvolvemos uma forma de automatizar e facilitar a captação desses dados. Através de uma inteligência artificial generativa, colheremos esses dados dos produtores, de forma simples e intuitiva.  
-Implementada a uma plataforma robusta e maleável, conectada a chatbots, como por exemplo o WhatsApp.
+Pensando nisso, desenvolvemos uma forma de automatizar e facilitar a captação desses dados. Através de uma inteligência artificial generativa, colheremos esses dados dos produtores, de forma simples e intuitiva. Implementada a uma plataforma robusta e maleável, conectada a chatbots, como por exemplo o WhatsApp.
 
 <br/>
 
